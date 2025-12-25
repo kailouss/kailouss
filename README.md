@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Kailouss**, a passionate developer who loves building applications and exploring new technologies. Welcome to my GitHub profile!
+I'm **Kaizen Somosera**, a passionate developer who loves building applications and exploring new technologies. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -8,7 +8,7 @@ I'm a software developer focused on creating efficient and innovative solutions.
 
 ## Skills & Technologies
 
-docker,html,css,js,graphql,aws,nodejs,git,github,mongodb,java
+docker,html,css,js,nodejs,git,github,react,godot,nextjs,remix,nestjs,vite,vitest,bun,discord,figma,firebase,githubactions,prisma,supabase,vim,npm,tailwind,yarn,vscode,pnpm,scala
 
 ## Top Projects
 
